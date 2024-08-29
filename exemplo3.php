@@ -10,8 +10,7 @@
 
 <body>
     <div class=" w3-third w3-center w3-animate-top w3-padding">
-        <form class="w3-
-container" method="post" action="atividadeOnlineAction.php">
+        <form class="w3-container" method="post" action="atividadeOnlineAction.php">
             <label class="w3-text-teal"><b>Nome do Cliente</b></label>
             <input class="w3-input w3-border w3-lightgrey"
                 name="txtNome" type="text">
@@ -38,5 +37,6 @@ container" method="post" action="atividadeOnlineAction.php">
             <button class="w3-btn w3-blue-grey">Enviar</button>
         </form>
     </div>
+</body>
 
 </html>
